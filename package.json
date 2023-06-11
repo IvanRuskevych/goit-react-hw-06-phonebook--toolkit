@@ -1,14 +1,15 @@
 {
-  "name": "goit-react-hw-06-phonebook",
+  "name": "goit-react-hw-06-phonebook--toolkit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://IvanRuskevych.github.io/goit-react-hw-06-phonebook/",
+  "homepage": "https://IvanRuskevych.github.io/goit-react-hw-06-phonebook--toolkit/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.11.16",
     "@mui/material": "^5.12.3",
     "@redux-devtools/extension": "^3.2.5",
+    "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
